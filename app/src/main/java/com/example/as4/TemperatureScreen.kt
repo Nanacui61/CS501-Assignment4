@@ -66,8 +66,6 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlin.random.Random
 
-
-
 //Q3 Temperature Dashboard – Simulated Sensor Data with StateFlow and Coroutines
 
 /** Single reading with time and value. */

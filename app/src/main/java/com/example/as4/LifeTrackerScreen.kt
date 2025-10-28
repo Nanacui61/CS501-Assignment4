@@ -66,9 +66,6 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlin.random.Random
 
-
-
-
 //Q1 LifeTracker – A Lifecycle-Aware Activity Logger
 
 enum class LifeState { Created, Started, Resumed, Paused, Stopped, Destroyed }
